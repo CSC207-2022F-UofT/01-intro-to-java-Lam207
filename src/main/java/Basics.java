@@ -104,6 +104,7 @@ public class Basics {
         for (int i = 10; i >= 0; i--){
             System.out.println("Current count: " + i);
         }
+    }
 
     /**
      *  6. Below is a method named split which returns a String,
